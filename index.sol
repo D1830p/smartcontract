@@ -18,3 +18,4 @@ contract SimpleBank {
         owner = msg.sender;
       clientCount=0;
     }
+    }
